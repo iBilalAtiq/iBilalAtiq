@@ -36,9 +36,3 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ibilalatiq/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad-ashiq-303/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15513387/bilal-atiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackexchange.com/users/12114647/fahad-ashiq" height="30" width="40" /></a>
 </p>   
-
-
-
-
-
--->
